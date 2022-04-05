@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\anato\\Desktop\\MacierzPop\\MacierzPop\\MacierzPop.csproj": {}
+    "C:\\Users\\anato\\C-excersises\\MacierzPop\\MacierzPop\\MacierzPop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\anato\\Desktop\\MacierzPop\\MacierzPop\\MacierzPop.csproj": {
+    "C:\\Users\\anato\\C-excersises\\MacierzPop\\MacierzPop\\MacierzPop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anato\\Desktop\\MacierzPop\\MacierzPop\\MacierzPop.csproj",
+        "projectUniqueName": "C:\\Users\\anato\\C-excersises\\MacierzPop\\MacierzPop\\MacierzPop.csproj",
         "projectName": "MacierzPop",
-        "projectPath": "C:\\Users\\anato\\Desktop\\MacierzPop\\MacierzPop\\MacierzPop.csproj",
+        "projectPath": "C:\\Users\\anato\\C-excersises\\MacierzPop\\MacierzPop\\MacierzPop.csproj",
         "packagesPath": "C:\\Users\\anato\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anato\\Desktop\\MacierzPop\\MacierzPop\\obj\\",
+        "outputPath": "C:\\Users\\anato\\C-excersises\\MacierzPop\\MacierzPop\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

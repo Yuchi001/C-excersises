@@ -62,6 +62,23 @@ namespace MacierzPop
                 Console.WriteLine();
             }
         }
+        public void PrintMatrix(string fileName)
+        {
+            if(!fileName.EndsWith(".txt"))
+            {
+                Console.WriteLine("File could not be created:\nFile extention is not valid.");
+            }
+            using StreamWriter sw = new StreamWriter(fileName);
+            for (int i = 0; i < matrix.GetLength(0); i++)
+            {
+                for (int k = 0; k < matrix.GetLength(1); k++)
+                {
+                    sw.Write(matrix[i, k]);
+                }
+                sw.WriteLine();
+            }
+            Console.WriteLine($"Matrix succesfuly printed in {fileName}!");
+        }
         public void RotateMatrix(int moves = 1)
         {
             int maxLengthX = matrix.GetLength(0);
@@ -143,6 +160,12 @@ namespace MacierzPop
             matrix.RotateMatrix(times);
 
             matrix.PrintMatrix();
+
+            Console.Write("Print rotated matrix to a file?\nType file name to print, or -1 to skip this step. ");
+            string printFileName = Console.ReadLine();
+            if (printFileName == "-1")
+                return;
+            matrix.PrintMatrix("rotatedMatrix.txt");
         }
         static Matrix InitiateFunc<T>(string fileName, T loadObject) where T : LoadData
         {
