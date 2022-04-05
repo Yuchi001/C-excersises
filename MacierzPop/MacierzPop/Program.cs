@@ -58,6 +58,7 @@ namespace MacierzPop
                 for (int k = 0; k < matrix.GetLength(1); k++)
                 {
                     Console.Write(matrix[i, k]);
+                    Console.Write(' ');
                 }
                 Console.WriteLine();
             }
@@ -74,10 +75,11 @@ namespace MacierzPop
                 for (int k = 0; k < matrix.GetLength(1); k++)
                 {
                     sw.Write(matrix[i, k]);
+                    sw.Write(' ');
                 }
                 sw.WriteLine();
             }
-            Console.WriteLine($"Matrix succesfuly printed in {fileName}!");
+            Console.WriteLine($"Matrix was successfully printed into {fileName}!");
         }
         public void RotateMatrix(int moves = 1)
         {
