@@ -1,0 +1,13 @@
+C:\Users\anato\Desktop\MacierzPop\MacierzPop\bin\Debug\netcoreapp3.1\MacierzPop.exe
+C:\Users\anato\Desktop\MacierzPop\MacierzPop\bin\Debug\netcoreapp3.1\MacierzPop.deps.json
+C:\Users\anato\Desktop\MacierzPop\MacierzPop\bin\Debug\netcoreapp3.1\MacierzPop.runtimeconfig.json
+C:\Users\anato\Desktop\MacierzPop\MacierzPop\bin\Debug\netcoreapp3.1\MacierzPop.runtimeconfig.dev.json
+C:\Users\anato\Desktop\MacierzPop\MacierzPop\bin\Debug\netcoreapp3.1\MacierzPop.dll
+C:\Users\anato\Desktop\MacierzPop\MacierzPop\bin\Debug\netcoreapp3.1\MacierzPop.pdb
+C:\Users\anato\Desktop\MacierzPop\MacierzPop\obj\Debug\netcoreapp3.1\MacierzPop.csprojAssemblyReference.cache
+C:\Users\anato\Desktop\MacierzPop\MacierzPop\obj\Debug\netcoreapp3.1\MacierzPop.AssemblyInfoInputs.cache
+C:\Users\anato\Desktop\MacierzPop\MacierzPop\obj\Debug\netcoreapp3.1\MacierzPop.AssemblyInfo.cs
+C:\Users\anato\Desktop\MacierzPop\MacierzPop\obj\Debug\netcoreapp3.1\MacierzPop.csproj.CoreCompileInputs.cache
+C:\Users\anato\Desktop\MacierzPop\MacierzPop\obj\Debug\netcoreapp3.1\MacierzPop.dll
+C:\Users\anato\Desktop\MacierzPop\MacierzPop\obj\Debug\netcoreapp3.1\MacierzPop.pdb
+C:\Users\anato\Desktop\MacierzPop\MacierzPop\obj\Debug\netcoreapp3.1\MacierzPop.genruntimeconfig.cache
